@@ -1,0 +1,29 @@
+# SLE-3 Contribution Log
+
+## AI Contribution
+
+* AI helped suggest the **C4 Model structure** for the 8-Puzzle Solver.
+* AI helped identify the **Context Diagram (Level 1)**.
+* AI helped organize the **Container Diagram (Level 2)**.
+* AI helped identify the components for the **Component Diagram (Level 3)**.
+* AI helped prepare the **Code Level Overview (Level 4)**.
+* AI helped draw the three C4 diagrams.
+* AI helped draft the explanations for the diagrams and design decisions.
+* AI helped explain the responsibilities of the different modules such as Input Module, Puzzle Model, Search Engine, Visited Set, Profiler Module, and Output Module.
+
+## My Contribution
+
+* I selected the **8-Puzzle Solver system** from my SLE-2 work.
+* I reviewed all the C4 diagrams and compared them with my actual code.
+* I checked that the **class names and function names** in the report match my implementation.
+* I verified the structure of the Search Engine, including BFS and DFS.
+* I checked the responsibilities of the different containers and components.
+* I reviewed the design decisions used in the system.
+* I made sure I understood and could explain each design decision.
+* I reviewed the final report before submission.
+
+## Summary
+
+**AI did:** C4 Model structuring, diagram creation, and drafting of explanations.
+
+**I did:** System selection, code verification, diagram checking, design validation, and understanding of the complete architecture.
